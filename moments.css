@@ -1,0 +1,47 @@
+  body{
+    background-image: url(/img/bolinha.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+  }
+  p{
+    color: white;
+    font-size: 32px;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  .call{
+    width: 150px;
+    position: absolute;
+    margin-left: 15px;
+    top: 2.5%;
+  }
+
+  .roblox{
+    width: 200px;
+  position: absolute;
+  right: 15px;
+  margin-right: 15px;
+  top: 2.5%;
+  }
+
+  .roblox2{
+    width: 200px;
+    position: absolute;
+    right: 15px;
+    margin-right: 15px;
+    top: 25%;
+  }
+
+  .under{
+    color: red;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+

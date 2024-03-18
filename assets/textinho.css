@@ -1,0 +1,27 @@
+body{
+    background-image: url(/img/folha.jpg);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 28px;
+}
+
+div{
+     font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.pt2{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+      
+
+
+
